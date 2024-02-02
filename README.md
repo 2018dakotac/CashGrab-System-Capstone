@@ -1,5 +1,6 @@
 # CashGrab-System
 Video Demonstration: https://www.youtube.com/watch?v=CsshI4wKIHE
+Frontend webapp: https://github.com/ark-24/CashGrab---Capstone-Project?tab=readme-ov-file
 
 See the Operation_Manual.pdf for graphics and instructions on how to use the prototype device!
 The prototype device was successfully completed on July 25th for our Capstone Project at Simon Fraser University. 
